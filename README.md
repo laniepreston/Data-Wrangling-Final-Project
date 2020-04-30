@@ -1,15 +1,12 @@
 # Data-Wrangling-Final-Project
-Lanie Preston &amp; Floor Kouwenberg Final Project Data Wrangling 
-
-
-How does the party divide of the United States Congress influence per capita dairy production between 1998 and 2018?
-
+Lanie Preston &amp; Floor Kouwenberg 
 
 ## Research Question
 Did the ratio of Republicans to Democrats in the United States Congress influence per capita dairy production
 between the years 1998-2018, given that Republicans more often receive lobbies from the dairy industry and send
 subsidies to the dairy industry, than Democrats 1 ?
-Data Sources
+
+## Data Sources
 We used the table of the party divisions from the United States Congress from Wikipedia’s page:
 https://en.wikipedia.org/wiki/Party_divisions_of_United_States_Congresses#Party_divisions_by_Congress
 To verify Wikipedia’s numbers, we cross-checked them against the official divisions listed on the government
