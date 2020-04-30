@@ -4,7 +4,7 @@ Lanie Preston &amp; Floor Kouwenberg
 ## Research Question
 Did the ratio of Republicans to Democrats in the United States Congress influence per capita dairy production
 between the years 1998-2018, given that Republicans more often receive lobbies from the dairy industry and send
-subsidies to the dairy industry, than Democrats 1 ?
+subsidies to the dairy industry, than Democrats?
 
 ## Data Sources
 We used the table of the party divisions from the United States Congress from Wikipedia’s page:
